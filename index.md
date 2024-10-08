@@ -18,4 +18,23 @@ usetocbot: true
 ---
 
 
-## ORAN PTP Switch Configuration
+# Theoretical Background
+ORAN Specs, LLS Splits and Boundary Clocks
+
+
+# Practical Deployment
+
+
+
+# Security Issues 
+
+
+
+
+# Post-Deployment Management
+
+
+
+
+
+
