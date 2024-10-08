@@ -23,7 +23,7 @@ ORAN Specs, LLS Splits and Boundary Clocks
 
 
 # Practical Deployment
-There are several possible configurations which can be adopted for enabling the fronthual deployment for ORAN. The most common deployment involves a grandmaster which provides timing signal based on GNSS. In our deployment, we employ [VIAVI QG2 Multisync gateway] (resources/PTPGuide.pdf).
+There are several possible configurations which can be adopted for enabling the fronthual deployment for ORAN. The most common deployment involves a grandmaster which provides timing signal based on GNSS. In our deployment, we employ [VIAVI QG2 Multisync gateway](resources/PTPGuide.pdf).
 
 
 # Security Issues 
