@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Timing Protocol and Grandmaster in ORAN
+title: Timing
 nav_order: 1
 has_toc: false # on by default
 has_children: false
